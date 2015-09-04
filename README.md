@@ -10,3 +10,5 @@ a - b - c
   | c - d
   
   
+Example:
+./structure2pdf.py -f core-git.txt -d 4 -i product -e "components|tools|api" -o outputname
