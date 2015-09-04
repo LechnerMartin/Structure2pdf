@@ -7,6 +7,6 @@ E.g.,
 
 creates
 a - b - c
-  - c - d
+  \ c - d
   
   
